@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hell0,git3!");
         System.out.println("hell0,git4!");
         System.out.println("master,test!");
+        System.out.println("hot-fix,test!");
     }
 }
